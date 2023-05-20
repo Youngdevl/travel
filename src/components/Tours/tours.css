@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
+#tours-top{
+    text-align: center;
+    margin-top: 3%;
+}
+
+#tours-top h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #6366F1 !important;
+}
+#tours-top h2{
+    font-family: 'Open Sans', sans-serif;
+    color: #1F3347;
+    font-style: medium;
+    font-weight: 900;
+    font-size: 40px;
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
+#left-side p{
+font-size: 23px;
+color: grey;
+}
+
+#left-side h1{
+    font-size: 70px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    color: #1F3347;
+    padding-top: 7%;
+    padding-bottom: 2%;
+}
+#left-side{
+    margin-left: 5%;
+}
+#right-side img{
+    width: 80%;
+    margin-left: 7%;
+    margin-top: -4%;
+}
+#second{
+color: #6366F1 !important;
+}
