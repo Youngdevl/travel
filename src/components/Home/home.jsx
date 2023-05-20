@@ -3,7 +3,8 @@ import React, { Component } from 'react';
 import background from "../images/bg-img/01.jpg";
 import Navbar from '../Navbar/navbar';
 import Tours from '../Tours/tours'
-import Body from '../Body/body'
+import Body from '../Body/body';
+import Level from '../Level/level'
 import './home.css'
 class Home extends Component {
 render() {
@@ -20,6 +21,7 @@ render() {
 		<Navbar/>
     <Body/>
 	<Tours/>
+	<Level/>
 	</div>
 	);
 }

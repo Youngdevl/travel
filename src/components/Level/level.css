@@ -1,0 +1,111 @@
+/* F5F6FB */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
+#tope{
+    background-color: #f5f6fb;
+    margin-top:-10%;
+    text-align: center;
+}
+#tope h5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding-top: 2%;
+    font-weight: 500;
+    color: #6366F1 !important;
+}
+#tope h3{
+    font-family: 'Open Sans', sans-serif;
+    color: #1F3347;
+    font-style: medium;
+    font-weight: 900;
+    font-size: 40px;
+}
+#flex{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+#tip1 img{
+    border-radius: 50%;
+    width: 80%;
+}
+#tip1 h4{
+    margin-top: 2%;
+    font-size: 20px !important;
+  padding-left: -40% !important;
+  font-family: 'Open Sans', sans-serif;
+  color: #1F3347;
+  font-style: medium;
+  font-weight: 900;
+  font-size: 15px;
+}
+#tip2 h4{
+    margin-top: 2%;
+    font-size: 20px !important;
+  padding-left: -40% !important;
+  font-family: 'Open Sans', sans-serif;
+  color: #1F3347;
+  font-style: medium;
+  font-weight: 900;
+  font-size: 15px;
+}
+#hard{
+    background-color: #6366F1;
+    color: gold;
+}
+#hard1{
+    background-color: #6366F1;
+    color: gold;
+}
+#hard2{
+    background-color: #6366F1;
+    color: gold;
+}
+#bid{
+    display: flex;
+}
+#lm{
+    margin-top: -5%;
+}
+#col{
+    color: #1F3347;
+}
+#hard3{
+    color: gold;
+    background-color: #6366F1;
+}
+.checked {
+    color: orange;
+  }
+#tip3 h4{
+    margin-top: 2%;
+    font-size: 20px !important;
+    font-family: 'Open Sans', sans-serif;
+    color: #1F3347;
+    font-style: medium;
+    font-weight: 900;
+    font-size: 15px;
+  padding-left: -40% !important;
+}
+#tip4 h4{
+    margin-top: 2%;
+    font-size: 20px !important;
+    font-family: 'Open Sans', sans-serif;
+    color: #1F3347;
+    font-style: medium;
+    font-weight: 900;
+    font-size: 15px;
+  padding-left: -40% !important;
+}
+#tip2 img{
+    border-radius: 50%;
+    width: 80%;
+}
+#tip3 img{
+    border-radius: 50%;
+    width: 80%;
+}
+#tip4 img{
+    border-radius: 50%;
+    width: 80%;
+}

@@ -4,6 +4,16 @@
     margin-top: 3%;
 }
 
+#tours-top p{
+    font-size: 20px;
+}
+#col-side{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#tours-top h5{
+    font-size: 20px;
+}
 #tours-top h4{
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
